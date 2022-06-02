@@ -1,3 +1,7 @@
-exports.caesarCipher = function() {
+function caesarCipher(str, num) {
+    
+}
+
+// exports.caesarCipher = function() {
 
 };
